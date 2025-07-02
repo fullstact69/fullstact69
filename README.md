@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Chunli Huo 👋
 
-<!--
-**fullstact69/fullstact69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software & DevOps Engineer with 12+ years of experience in:
+- 🌐 Full-stack web & mobile app development
+- 🛠️ Database design and management
+- ☁️ DevOps on AWS, Azure, Ionos, GoDaddy
+- 🚀 CI/CD, Docker, Kubernetes, Infrastructure as Code
 
-Here are some ideas to get you started:
+## 🚧 Current Projects
+- Building scalable backend systems
+- Automating deployments with GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333?logo=python)
+![AWS](https://img.shields.io/badge/-AWS-333?logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-333?logo=docker)
+... (add more)
+
+## 📊 GitHub Stats
+![Chunli's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunlihuo&show_icons=true&theme=dark)
+
+---
+
+Let's connect on [email me](mailto:dongxu8869@gmail.com)!
